@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.1 on 2012-06-20 at 10:09 (MSK)-->
-<!--Last edited by Ukelele version 2.2.1 on 2012-06-20 at 15:20 (MSK)-->
-<keyboard group="0" id="6812" name="Russian - Ilya Birman Typography" maxout="1">
+<!--Last edited by Ukelele version 2.2.3 on 2012-10-15 at 11:20 (GMT+04:00)-->
+<keyboard group="0" id="5375" name="Russian - Ilya Birman Typography" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="a8"/>
     </layouts>
@@ -268,7 +268,7 @@
             <key code="3" output="]"/>
             <key code="4" output="}"/>
             <key code="5" output="©"/>
-            <key code="6" output="ђ"/>
+            <key code="6" output="."/>
             <key code="7" output="≈"/>
             <key code="8" output="≠"/>
             <key code="9" output="©"/>
@@ -296,7 +296,7 @@
             <key code="31" output="»"/>
             <key code="32" output="ѓ"/>
             <key code="33" output="“"/>
-            <key code="34" output="ѕ"/>
+            <key code="34" output="«"/>
             <key code="35" output="‘"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="&#x0022;"/>
@@ -828,7 +828,7 @@
             <key code="3" output="}"/>
             <key code="4" output="{"/>
             <key code="5" output="©"/>
-            <key code="6" output="Ђ"/>
+            <key code="6" output="?"/>
             <key code="7" output="≈"/>
             <key code="8" output="≠"/>
             <key code="9" output="µ"/>
