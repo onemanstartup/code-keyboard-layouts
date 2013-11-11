@@ -11,7 +11,7 @@
 	<key>KLInfo_English - Ilya Birman Typography</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.unknown.keylayout.English-IlyaBirmanTypography</string>
+		<string>org.sil.ukelele.keyboardlayout.oms.english- ilya birman typography</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-RU</string>
 	</dict>

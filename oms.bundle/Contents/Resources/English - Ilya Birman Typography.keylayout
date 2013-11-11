@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.1 on 2012-06-20 at 08:58 (MSK)-->
-<!--Last edited by Ukelele version 2.2.3 on 2012-10-15 at 11:06 (GMT+04:00)-->
+<!--Last edited by Ukelele version 2.2.3 on 2013-11-11 at 05:10 (GMT+4)-->
 <keyboard group="0" id="5591" name="English - Ilya Birman Typography" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
@@ -88,7 +88,7 @@
             <key code="41" output=";"/>
             <key code="42" output="\"/>
             <key code="43" output=","/>
-            <key code="44" output=","/>
+            <key code="44" output="/"/>
             <key code="45" action="16"/>
             <key code="46" output="m"/>
             <key code="47" output="."/>
@@ -200,7 +200,7 @@
             <key code="41" output=":"/>
             <key code="42" output="|"/>
             <key code="43" output="&#x003C;"/>
-            <key code="44" output="/"/>
+            <key code="44" output="?"/>
             <key code="45" action="26"/>
             <key code="46" output="M"/>
             <key code="47" output="&#x003E;"/>
